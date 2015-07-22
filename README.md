@@ -94,8 +94,5 @@ Also, you might want to set the User-Agent header when you download the pages
 from Google. Otherwise it might block you. It is best to use
 [curl](http://php.net/curl) because it makes it easy to add headers.
 
-<<<<<<< HEAD
-Zoran added New line again
-=======
 Zoran added
->>>>>>> testing
+
