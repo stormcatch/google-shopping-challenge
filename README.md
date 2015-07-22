@@ -85,7 +85,7 @@ class Divider {
 
 Hints
 -----
-
+Zoran
 In order to process the HTML code in your script, it might be useful to use the
 [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/) class. It is
 very easy to use. Feel free to do it another way, if you prefer.
